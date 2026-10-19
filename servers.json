@@ -75,7 +75,11 @@
     {
       "name": "ethxn's omnisette server :3",
       "address": "https://omni.ethxn.xyz"
-    }
+    },
+    {
+    "name": "Noah Custom Anisette",
+    "address": "https://anisette-v3-server-l49q.onrender.com"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
